@@ -10,6 +10,11 @@ To run this script you will need three things:
 
 Paste your IP-Range target on ip_list.txt and run the script. After that, enter your API_KEY and check the report.txt file (note: this .txt will be overwrite on each script execution)
 
+Don't forget to install the necessary dependencies with:
+
+pip install -r requirements.txt
+
+
 Created by PySec
 -2024/09/04-
 
