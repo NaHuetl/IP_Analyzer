@@ -14,7 +14,7 @@ Don't forget to install the necessary dependencies with:
 
 pip install -r requirements.txt
 
-https://raw.githubusercontent.com/NaHuetl/IP_Analyzer/edit/master/IP_analyzer_demo2.png
+https://github.com/NaHuetl/IP_Analyzer/blob/master/IP_analyzer_demo2.png
 
 Created by PySec
 -2024/09/04-
