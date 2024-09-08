@@ -87,7 +87,7 @@ try:
     
     
 except KeyError:
-    print("\nInvalid APYKEY. Please restar the script and insert a valid KEY.\n-\n-\n-")
+    print("\nInvalid APYKEY. Please restart the script and insert a valid KEY.\n-\n-\n-")
 except KeyboardInterrupt:
     print("The script was stoped (KeyboardInterrupt)")
     
